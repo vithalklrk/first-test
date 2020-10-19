@@ -1,3 +1,3 @@
-module example.com/greetings
+module github.com/vithalklrk/greetings
 
 go 1.15
